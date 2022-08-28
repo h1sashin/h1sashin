@@ -8,6 +8,6 @@ I'm a junior JS developer, currently working at [AEXOL](https://aexol.com/).
 
 ### 📫 Get in touch...
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawid-szemborowski/)
-![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=hiszaszin@gmail.com)
+![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logoColor=white&label=hiszaszin@gmail.com)
 
 

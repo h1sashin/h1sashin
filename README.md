@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Dawid
-I'm a Frontend Developer, currently working at [AEXOL](https://aexol.com/).
+I'm a Frontend Developer, currently working at [iMakeable](https://imakeable.com/en).
 
 ---
 
